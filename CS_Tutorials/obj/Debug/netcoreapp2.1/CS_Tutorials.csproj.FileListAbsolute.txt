@@ -1,0 +1,11 @@
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/bin/Debug/netcoreapp2.1/CS_Tutorials.deps.json
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/bin/Debug/netcoreapp2.1/CS_Tutorials.runtimeconfig.json
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/bin/Debug/netcoreapp2.1/CS_Tutorials.runtimeconfig.dev.json
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/bin/Debug/netcoreapp2.1/CS_Tutorials.dll
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/bin/Debug/netcoreapp2.1/CS_Tutorials.pdb
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/obj/Debug/netcoreapp2.1/CS_Tutorials.csprojAssemblyReference.cache
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/obj/Debug/netcoreapp2.1/CS_Tutorials.csproj.CoreCompileInputs.cache
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/obj/Debug/netcoreapp2.1/CS_Tutorials.AssemblyInfoInputs.cache
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/obj/Debug/netcoreapp2.1/CS_Tutorials.AssemblyInfo.cs
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/obj/Debug/netcoreapp2.1/CS_Tutorials.dll
+/Users/CristianJuan/Projects/CS_Tutorials/CS_Tutorials/obj/Debug/netcoreapp2.1/CS_Tutorials.pdb
